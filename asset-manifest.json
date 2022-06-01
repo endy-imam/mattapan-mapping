@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.5392fcb7.chunk.css",
+    "main.js": "./static/js/main.f439aefd.chunk.js",
+    "main.js.map": "./static/js/main.f439aefd.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.24cd7955.js",
+    "runtime-main.js.map": "./static/js/runtime-main.24cd7955.js.map",
+    "static/css/2.9cd43570.chunk.css": "./static/css/2.9cd43570.chunk.css",
+    "static/js/2.d379d2f5.chunk.js": "./static/js/2.d379d2f5.chunk.js",
+    "static/js/2.d379d2f5.chunk.js.map": "./static/js/2.d379d2f5.chunk.js.map",
+    "static/js/3.809b18ea.chunk.js": "./static/js/3.809b18ea.chunk.js",
+    "static/js/3.809b18ea.chunk.js.map": "./static/js/3.809b18ea.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.9cd43570.chunk.css.map": "./static/css/2.9cd43570.chunk.css.map",
+    "static/css/main.5392fcb7.chunk.css.map": "./static/css/main.5392fcb7.chunk.css.map",
+    "static/js/2.d379d2f5.chunk.js.LICENSE.txt": "./static/js/2.d379d2f5.chunk.js.LICENSE.txt",
+    "static/media/stylesheet.css": "./static/media/BaronNeueItalic.b17fe447.woff2",
+    "static/media/index.css": "./static/media/lato-latin-ext-400-normal.b267ec5a.woff2",
+    "static/media/mattapan_mapping_logo_2.f5c2e6bf.svg": "./static/media/mattapan_mapping_logo_2.f5c2e6bf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24cd7955.js",
+    "static/css/2.9cd43570.chunk.css",
+    "static/js/2.d379d2f5.chunk.js",
+    "static/css/main.5392fcb7.chunk.css",
+    "static/js/main.f439aefd.chunk.js"
+  ]
+}
